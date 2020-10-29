@@ -3,7 +3,7 @@ No one likes a blank loading screen. This silky-smooth progress spinner will kee
 
 ## Available States using useState
 
-|   isON/setIsOn    |   a flag to indicate that loading is in progress. Default false
+|isON/setIsOn    |a flag to indicate that loading is in progress. Default false
 |   files/setFiles   |   can set a dynamic number that corresponds to the number of files someone selects to upload
 |   recipients/setRecipients  | can set a dynamic number that corresponds to the number of recipients someone has.
 |   currentUpload/setCurrentUpload  |   will be used to store the state of the current number of bytes that has transfered.
