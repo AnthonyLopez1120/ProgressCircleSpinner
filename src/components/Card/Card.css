@@ -1,0 +1,38 @@
+
+.card-container{
+    border-radius: 7%;
+    width: 300px;
+    margin: 0 auto;
+    box-shadow: 5px 10px 10px #888888;
+}
+
+.sect{
+    margin: 0 25%;
+    padding-bottom: 5%;
+}
+
+.button-container{
+    width: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border-top: #babcbf 2px solid;
+    display: flex;
+    justify-content: space-around;
+}
+
+.transfer-data-container{
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid #409fff;
+    background-color: white;
+    color: #409fff;
+    font-size: 1rem;
+}
+button:focus {
+    outline:0;
+}

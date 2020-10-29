@@ -1,0 +1,61 @@
+.container {
+    position: relative;
+    display: block;
+    height: 200px;
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
+.svg {
+    display: block;
+   
+    margin: 20px auto;
+    max-width: 100%;
+    height: 170px;
+    width: 170px;
+
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: rotation;
+}
+
+.svg-circle-bg{
+    fill:none;
+}
+
+.svg-circle{
+    fill: none;
+}
+
+.svg-circle-text{
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    top:47%;
+    left:11%;
+    font-size: 3rem;       
+}
+
+.fancyPercent{
+    margin-left: 5px;
+    display: inline-block;
+    font-size: 1rem;
+    color: #babcbf;
+    vertical-align: top;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(365deg);
+    }
+}
+
