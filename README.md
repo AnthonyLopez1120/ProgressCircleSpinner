@@ -1,5 +1,6 @@
 # Progress Spinner 
-No one likes a blank loading screen. This silky-smooth progress spinner will keep your users on your page. Utilize this component to give your users a sense of their upload progress. Housed in React.js, powered by JavaScript, and colored with CSS.
+No one likes a blank loading screen. This silky-smooth progress spinner will keep your users on your page. Utilize this component to give your users a sense of their upload progress. Housed in React.js, powered by JavaScript, and colored with CSS. 
+Check out the demo: https://progressspinner.herokuapp.com/
 
 ## Available States using useState
 | State Name        | Description           |
