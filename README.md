@@ -5,7 +5,7 @@ Check out the demo: https://progressspinner.herokuapp.com/
 ## Available States using useState
 | State Name        | Description           |
 | ------------- |:-------------:|
-| isON/setIsOn      | a flag to indicate that loading is in progress. Default false |
+| isOn/setIsOn      | a flag to indicate that loading is in progress. Default false |
 | files/setFiles      | can set a dynamic number that corresponds to the number of files someone selects to upload      |
 | recipients/setRecipients | can set a dynamic number that corresponds to the number of recipients someone has.      |
 | currentUpload/setCurrentUpload | will be used to store the state of the current number of bytes that has transfered.      |
