@@ -7,9 +7,7 @@ function App() {
  
   return (
     <div>
-      <div>
-        <Card />
-      </div>
+      <Card />
     </div>
   );
 }

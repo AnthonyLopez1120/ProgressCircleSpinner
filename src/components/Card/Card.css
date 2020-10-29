@@ -36,3 +36,8 @@ button{
 button:focus {
     outline:0;
 }
+
+.underlined{
+    text-decoration: underline;
+    color: #409fff
+}
