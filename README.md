@@ -9,3 +9,9 @@ No one likes a blank loading screen. This silky-smooth progress spinner will kee
 |   currentUpload/setCurrentUpload  |   will be used to store the state of the current number of bytes that has transfered.
 |   totalUpload/setTotalUpload  |   Carries the total file size
 |   remainingTime/setRemainingTime  |   Carries a calculated value of the remaining time for the upload.
+
+| State Name        | Description           |
+| ------------- |:-------------:|
+| isON/setIsOn      | a flag to indicate that loading is in progress. Default false |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
